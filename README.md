@@ -1,5 +1,7 @@
 # Ex03 Time Table
 ## Date:
+GOWTHAM C
+21224240046
 
 ## AIM
 To write a html webpage page to display your slot timetable.
